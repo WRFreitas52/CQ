@@ -35,3 +35,8 @@ C:\Users\Wiliam Freitas\Desktop\PROJETOS\CQ\CQ\bin\Debug\netcoreapp2.1\CQ.Views.
 C:\Users\Wiliam Freitas\Desktop\PROJETOS\CQ\CQ\obj\Debug\netcoreapp2.1\CQ.Views.pdb
 C:\Users\Wiliam Freitas\Desktop\PROJETOS\CQ\CQ\obj\Debug\netcoreapp2.1\CQ.genruntimeconfig.cache
 C:\Users\Wiliam Freitas\Desktop\PROJETOS\CQ\CQ\obj\Debug\netcoreapp2.1\CQ.csproj.CopyComplete
+C:\Users\Wiliam Freitas\Desktop\PROJETOS\CQ\CQ\obj\Debug\netcoreapp2.1\Razor\Views\Players\Create.cshtml.g.cs
+C:\Users\Wiliam Freitas\Desktop\PROJETOS\CQ\CQ\obj\Debug\netcoreapp2.1\Razor\Views\Players\Delete.cshtml.g.cs
+C:\Users\Wiliam Freitas\Desktop\PROJETOS\CQ\CQ\obj\Debug\netcoreapp2.1\Razor\Views\Players\Details.cshtml.g.cs
+C:\Users\Wiliam Freitas\Desktop\PROJETOS\CQ\CQ\obj\Debug\netcoreapp2.1\Razor\Views\Players\Edit.cshtml.g.cs
+C:\Users\Wiliam Freitas\Desktop\PROJETOS\CQ\CQ\obj\Debug\netcoreapp2.1\Razor\Views\Players\Index.cshtml.g.cs

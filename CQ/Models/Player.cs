@@ -8,6 +8,7 @@ namespace CQ.Models
 {
     public class Player
     {
+        public int Id { get; set; }
         public string Name { get; set; }
 
         public int BirthDay { get; set; }
@@ -24,6 +25,8 @@ namespace CQ.Models
 
         public int FootVolleyPoints { get; set; }
 
+
+        //#Constructor
         public Player()
         {
         }
@@ -40,6 +43,7 @@ namespace CQ.Models
             FootVolleyPoints = 0;
         }
 
+        //# Methods
         public void Addpoint(Sport a, int x)
         {
             switch (x)

@@ -10,5 +10,20 @@ namespace CQ.Models
         //Partida
 
         public List<Player> Players { get; set; }
+
+        public List<Player> TeamOne { get; set; }
+
+        public List<Player> TeamTwo { get; set; }
+
+        public Player GoalKeeperOne { get; set; }
+
+        public Player GoalKeeperTwo { get; set; }
+
+
+        public void Draw()
+        {
+
+        }
+
     }
 }

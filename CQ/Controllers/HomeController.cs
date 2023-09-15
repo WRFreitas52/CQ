@@ -25,7 +25,7 @@ namespace CQ.Controllers
 
         public IActionResult Contact()
         {
-            ViewData["Message"] = "Your contact page.";
+            ViewData["Message"] = "WRFreitas Developer.";
 
             return View();
         }
