@@ -7,7 +7,7 @@ namespace CQ.Models
 {
     public class Team
     {
-
+        public int Id { get; set; }
         public List<Player> team { get; set; }
 
         public Team()

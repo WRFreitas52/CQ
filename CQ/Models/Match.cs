@@ -9,7 +9,7 @@ namespace CQ.Models
     {
         //Partida
 
-        public List<Player> Players { get; set; }
+        public Group Players { get; set; }
 
         public List<Player> TeamOne { get; set; }
 
@@ -20,8 +20,21 @@ namespace CQ.Models
         public Player GoalKeeperTwo { get; set; }
 
 
+        //#Constructs
+        public Match()
+        {
+        }
+
+        public Match(Group players, Player goalKeeperOne, Player goalKeeperTwo)
+        {
+            Players = players;
+            GoalKeeperOne = goalKeeperOne;
+            GoalKeeperTwo = goalKeeperTwo;
+        }
+
         public void Draw()
         {
+
 
         }
 
